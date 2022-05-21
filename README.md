@@ -1,4 +1,18 @@
-### Hi there 👋
+# Thanks for stopping by! 😊
+
+- 📚 Currently working towards my B.S. in Computer Science
+- 💸 Seeking software developer internships or full time employment
+- 💻 In the process of learning FastAPI and React.js
+- 🐍 Main language: Python
+
+🙋‍♂️ I can be found on [LinkedIn](https://www.linkedin.com/in/nicholas-seldner-577b35238/)\
+📧 I can be contacted by email at nickseldner@gmail.com
+
+
+
+
+
+
 
 <!--
 **soupvendor/soupvendor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
