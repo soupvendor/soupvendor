@@ -1,4 +1,4 @@
-# Thanks for stopping by! 😊
+# Thanks for stopping by! 
 
 - 📚 Currently working towards my B.S. in Computer Science
 - 💸 Seeking software developer internships or full time employment
