@@ -1,7 +1,6 @@
 # Thanks for stopping by! 
 
 - 📚 Currently working towards my B.S. in Computer Science
-- 💸 Seeking software developer internships or full time employment
 - 💻 In the process of learning FastAPI and React.js
 - 🐍 Main language: Python
 
